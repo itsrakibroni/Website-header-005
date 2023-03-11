@@ -1,0 +1,59 @@
+html {
+    box-sizing: border-box;
+    font-family: 'Questrial', sans-serif;
+}
+.pbody {
+    width: 1920px;
+    height: 5504px;
+    overflow-y: overlay;
+    background: #ffffff
+}
+
+/*FONT AREA START*/
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+
+/* FLAT ICON */
+@import url('https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css');
+
+/*HEADER AREA START*/
+
+.header_area_main {
+    
+}
+
+.dex_header_area {}
+.header_logo {}
+.header_logo a {}
+.header_logo a img {}
+
+
+.dex_menu {}
+.dex_menu ul.nav_menu {}
+.dex_menu ul {}
+ul.nav_menu {}
+.nav_menu ul {}
+.nav_menu ul li {}
+.nav_menu ul li a {}
+.nav_menu ul li a span {}
+.nav_menu ul li a i {}
+
+
+.search_box_btn {}
+.search_box_btn i {}
+.bag_icon {}
+.bag_icon i {}
+
+
+.slider_btn {}
+.slider_btn i{}
+
+
+
+.{}
+.{}
+.{}
+.{}
+.{}
+/*HEADER AREA END*/
+
+/*<====================================================>*/
